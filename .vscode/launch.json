@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/swarnimagautam/Desktop/Desktop/Advanced algorithms/Dynamic Programming",
+      "program": "/Users/swarnimagautam/Desktop/Desktop/Advanced algorithms/Dynamic Programming/build/Debug/outDebug"
+    }
+  ]
+}
